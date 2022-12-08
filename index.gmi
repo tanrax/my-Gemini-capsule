@@ -47,3 +47,7 @@ Tengo diversos trabajos que compagino. Por un lado soy CTO en un estudio de desa
 => https://buttondown.email/infinita-recursion Newsletter - Infinita recursión: Retos semanales para devs.
 => https://androsfenollosa.notion.site/Andros-Fenollosa-c857c80fe9d54afa85c089ce2d9ef771 Curriculum Vitae
 => https://ko-fi.com/androsfenollosa/shop Infografías
+
+## Artículos
+
+=> gemfiles/2022-12-8-dulce-introduccion-al-universo-gemini.gmi 2022-12-8 - Dulce introducción al universo del protocolo Gemini 
