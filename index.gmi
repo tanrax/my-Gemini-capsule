@@ -50,4 +50,4 @@ Tengo diversos trabajos que compagino. Por un lado soy CTO en un estudio de desa
 
 ## Artículos
 
-=> gemfiles/2022-12-8-dulce-introduccion-al-universo-gemini.gmi 2022-12-8 - Dulce introducción al universo del protocolo Gemini 
+=> gemfiles/2022-12-08-dulce-introduccion-al-universo-gemini.gmi 2022-12-08 Introducción al universo del protocolo Gemini
